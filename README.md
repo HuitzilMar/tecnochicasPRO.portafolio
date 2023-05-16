@@ -11,23 +11,25 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/primera_parte.png)
+
+![Segunda parte](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/primera_parte_web.png)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/experiencia.png)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/proyectos.png)
 
 Testimonios:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![Testimonios](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/testimonios.png)
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](https://github.com/HuitzilMar/tecnochicasPRO.portafolio/blob/main/contacto.png)
 
 ## Tecnologías
 
